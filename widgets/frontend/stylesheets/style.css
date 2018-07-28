@@ -1,0 +1,28 @@
+body {
+  font-family: wingdings;
+  font-size: 48px;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+img {
+  border-radius: 20px;
+}
+.clock {
+  border: 2px solid black;
+  background: turquoise;
+  justify-content: space-around;
+  display: flex;
+  /* max-width: 600px; */
+}
+.clock-format {
+  /* text-align: center; */
+  /* float: left; */
+}
+.clock-data {
+  /* display: inline; */
+}
